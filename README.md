@@ -31,4 +31,6 @@ This repo uses essentially the same environment as [MechRepoNet](https://github.
 Please use the [requirements.txt](https://github.com/SuLab/MechRepoNet/blob/main/requirements.txt) from that
 repository.
 
+Additional requriement above MechRepoNet:
+`$ pip install fpdf`
 
