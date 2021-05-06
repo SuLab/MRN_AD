@@ -34,3 +34,8 @@ repository.
 Additional requriement above MechRepoNet:
 `$ pip install fpdf`
 
+
+## Location
+
+This repo and all associated datafiles are located at `/gpfs/group/su/mike/MRN_AD`
+
